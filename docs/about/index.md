@@ -25,11 +25,11 @@ title: About Me.
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Zenisha Pelyzom Choki
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Everything will be fine in the end!"_
 
 A short paragraph about yourself. Describe who you are, what you're passionate about,
 and what drives you. Keep it personal and authentic — this is your space!
@@ -42,14 +42,25 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🎓 Education
 
-| Year | Degree / Grade | School |
+| Year | Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2022 – Present | 11 | The Royal Academy |
+| 2015 – 2021 | 6 | Rukubji Primary School |
 
 ## 🛠️ Skills
-
+  .skill-badge {
+    display: inline-block;
+    background-color: #2094f3; /* A nice bright blue */
+    color: white;
+    padding: 6px 16px;         /* Creates space inside the badge */
+    margin: 5px;               /* Creates space between the badges */
+    border-radius: 50px;       /* Makes the edges completely rounded (pill shape) */
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Adds a subtle shadow for depth */
+  }
 <div markdown>
+
 
 <span class="skill-badge">Python</span>
 <span class="skill-badge">JavaScript</span>
@@ -84,5 +95,5 @@ and what drives you. Keep it personal and authentic — this is your space!
 |----------|------|
 | :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
+| :material-email: Email | [your.email@example.com](mailto:zenisha.pchoki2022@academy.bt) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
