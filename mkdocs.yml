@@ -7,10 +7,10 @@
 #   3. Open http://127.0.0.1:8000
 # ============================================================
 
-site_name: Ugyen Penden Dorjee     # ← Change to your name / project
-site_url: https://ugyen-penden-dorji-f8bd10.gitlab.io/          # ← Change to your deployed URL
+site_name: Zenisha Pelyzom Choki     # ← Change to your name / project
+site_url: https://zenisha123.github.io/Zenisha/         # ← Change to your deployed URL
 site_description: A personal documentation site for showcasing work, learning, and projects.
-site_author: Ugyen Penden Dorjee               # ← Change to your name
+site_author: Zenisha Pelyzom Choki              # ← Change to your name
 
 # ── Theme ────────────────────────────────────────────────────
 theme:
