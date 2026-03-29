@@ -153,3 +153,5 @@ nav:
   - Projects:
       - Overview: projects/index.md
       - "📋 Project Template": projects/project-template.md
+extra_css:
+  - stylesheets/style.css
