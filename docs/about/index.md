@@ -1,5 +1,5 @@
 ---
-title: About Me.
+About Me.
 ---
 
 # About Me
@@ -20,7 +20,7 @@ title: About Me.
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img width="531" height="443" alt="Screen Shot 2026-03-29 at 3 21 22 PM" src="https://github.com/user-attachments/assets/071bf604-4cde-470b-93a9-865603fcebd6" />
 
 
 <div class="profile-info" markdown>
@@ -31,8 +31,7 @@ title: About Me.
 
 > _"Everything will be fine in the end!"_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+My name is Zenisha Pelyzom Choki. I am in the 11th grade and studying at The Royal Academy. I am originally from Wangdue Phodrang, but I currently live in Chhukha. I am passionate about playing sports, reading books, exploring, and learning new skills. The feeling of accomplishment is what motivates me to work hard and finish my tasks.
 
 </div>
 
@@ -48,32 +47,20 @@ and what drives you. Keep it personal and authentic — this is your space!
 | 2015 – 2021 | 6 | Rukubji Primary School |
 
 ## 🛠️ Skills
-  .skill-badge {
-    display: inline-block;
-    background-color: #2094f3; /* A nice bright blue */
-    color: white;
-    padding: 6px 16px;         /* Creates space inside the badge */
-    margin: 5px;               /* Creates space between the badges */
-    border-radius: 50px;       /* Makes the edges completely rounded (pill shape) */
-    font-size: 14px;
-    font-weight: 600;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Adds a subtle shadow for depth */
-  }
+ 
 <div markdown>
 
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">Laser Cutting</span>
+<span class="skill-badge">3-D Designing</span>
+<span class="skill-badge">GitHub</span>
+<span class="skill-badge">Mathamatics</span>
+<span class="skill-badge">Badminton</span>
+
 
 </div>
 
-!!! tip "Customize Your Skills"
+
 
     Replace the badges above with your own skills.  
     Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
@@ -82,10 +69,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **3-D Designing** — I would like to design complex shapes and figurines with little or no help from the internet
+- 🎨 **Journaling** — I am interested in keeping a journal so I can keep track of my progress and write down my thoughts
+- 🏃 **Badminton** — I want to enhance my badminton skills and also improve my skills in other sports
+- 📚 **Self-help Books** — I want to get into reading self-help books or non-fiction to gain knowledge and wisdom
 
 <hr class="section-divider">
 
@@ -93,7 +80,6 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:zenisha.pchoki2022@academy.bt) |
+| :fontawesome-brands-github: GitHub | [Zenisha123](https://github.com/yourusername) |
+| :material-email: Email | [zenisha.pchoki2022@academy.bt](mailto:zenisha.pchoki2022@academy.bt) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
